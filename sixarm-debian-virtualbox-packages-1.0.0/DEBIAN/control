@@ -1,0 +1,12 @@
+Package: sixarm-debian-virtualbox-packages
+Version: 1.0.3
+Section: devel
+Priority: optional
+Architecture: all
+Depends: virtualbox-guest-dkms, virtualbox-guest-utils, virtualbox-guest-x11, virtualbox-ose-guest-utils
+Maintainer: Joel Parker Henderson <joel@sixarm.com>
+Description: VirtualBox packages we like to use
+ VirtualBox packages we like to use together.
+
+
+
